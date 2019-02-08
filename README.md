@@ -1,3 +1,26 @@
+## hls-lfcd-lds-driver (kinetic) - 1.1.0-0
+
+The packages in the `hls-lfcd-lds-driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release hls-lfcd-lds-driver -t kinetic -r kinetic` on `Fri, 08 Feb 2019 08:23:41 -0000`
+
+The `hls_lfcd_lds_driver` package was released.
+
+Version of package(s) in repository `hls-lfcd-lds-driver`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+- release repository: https://github.com/ROBOTIS-GIT-release/hls-lfcd-lds-driver-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## hls-lfcd-lds-driver (melodic) - 1.1.0-1
 
 The packages in the `hls-lfcd-lds-driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release hls-lfcd-lds-driver -t melodic -r melodic --edit` on `Wed, 23 Jan 2019 02:16:59 -0000`
